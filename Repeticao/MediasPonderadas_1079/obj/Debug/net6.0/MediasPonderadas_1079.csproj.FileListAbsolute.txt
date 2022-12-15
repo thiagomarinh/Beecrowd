@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\bin\Debug\net6.0\MediasPonderadas_1079.exe
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\bin\Debug\net6.0\MediasPonderadas_1079.deps.json
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\bin\Debug\net6.0\MediasPonderadas_1079.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\bin\Debug\net6.0\MediasPonderadas_1079.dll
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\bin\Debug\net6.0\MediasPonderadas_1079.pdb
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.dll
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\refint\MediasPonderadas_1079.dll
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.pdb
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\MediasPonderadas_1079.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\MediasPonderadas_1079\obj\Debug\net6.0\ref\MediasPonderadas_1079.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositivoseMedia_1064", "PositivoseMedia_1064.csproj", "{9525F084-01C5-41CC-899D-1AF5B1AD9420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9525F084-01C5-41CC-899D-1AF5B1AD9420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9525F084-01C5-41CC-899D-1AF5B1AD9420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9525F084-01C5-41CC-899D-1AF5B1AD9420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9525F084-01C5-41CC-899D-1AF5B1AD9420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32EA53E-0E29-47C9-9EBB-DD1E4E810264}
+	EndGlobalSection
+EndGlobal

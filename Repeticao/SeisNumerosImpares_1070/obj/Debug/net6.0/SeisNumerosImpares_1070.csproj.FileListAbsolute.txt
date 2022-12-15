@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.exe
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.deps.json
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.dll
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\bin\Debug\net6.0\SeisNumerosImpares_1070.pdb
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.dll
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\refint\SeisNumerosImpares_1070.dll
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.pdb
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\SeisNumerosImpares_1070.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\SeisNumerosImpares_1070\obj\Debug\net6.0\ref\SeisNumerosImpares_1070.dll

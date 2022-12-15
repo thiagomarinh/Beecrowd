@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.exe
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.deps.json
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.dll
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.pdb
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.dll
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\refint\NumerosPositivos.dll
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.pdb
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPositivos\obj\Debug\net6.0\ref\NumerosPositivos.dll

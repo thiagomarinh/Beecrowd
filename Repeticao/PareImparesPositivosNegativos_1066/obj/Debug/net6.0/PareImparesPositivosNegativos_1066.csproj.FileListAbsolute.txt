@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\bin\Debug\net6.0\PareImparesPositivosNegativos_1066.exe
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\bin\Debug\net6.0\PareImparesPositivosNegativos_1066.deps.json
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\bin\Debug\net6.0\PareImparesPositivosNegativos_1066.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\bin\Debug\net6.0\PareImparesPositivosNegativos_1066.dll
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\bin\Debug\net6.0\PareImparesPositivosNegativos_1066.pdb
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.dll
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\refint\PareImparesPositivosNegativos_1066.dll
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.pdb
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\PareImparesPositivosNegativos_1066.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\PareImparesPositivosNegativos_1066\obj\Debug\net6.0\ref\PareImparesPositivosNegativos_1066.dll

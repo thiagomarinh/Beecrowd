@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\bin\Debug\net6.0\QuadradoDosPares_1073.exe
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\bin\Debug\net6.0\QuadradoDosPares_1073.deps.json
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\bin\Debug\net6.0\QuadradoDosPares_1073.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\bin\Debug\net6.0\QuadradoDosPares_1073.dll
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\bin\Debug\net6.0\QuadradoDosPares_1073.pdb
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.dll
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\refint\QuadradoDosPares_1073.dll
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.pdb
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\QuadradoDosPares_1073.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\QuadradoDosPares_1073\obj\Debug\net6.0\ref\QuadradoDosPares_1073.dll

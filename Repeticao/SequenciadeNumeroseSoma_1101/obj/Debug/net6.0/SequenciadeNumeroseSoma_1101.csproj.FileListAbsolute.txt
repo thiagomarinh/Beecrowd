@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\bin\Debug\net6.0\SequenciadeNumeroseSoma_1101.exe
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\bin\Debug\net6.0\SequenciadeNumeroseSoma_1101.deps.json
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\bin\Debug\net6.0\SequenciadeNumeroseSoma_1101.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\bin\Debug\net6.0\SequenciadeNumeroseSoma_1101.dll
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\bin\Debug\net6.0\SequenciadeNumeroseSoma_1101.pdb
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.dll
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\refint\SequenciadeNumeroseSoma_1101.dll
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.pdb
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\SequenciadeNumeroseSoma_1101.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciadeNumeroseSoma_1101\obj\Debug\net6.0\ref\SequenciadeNumeroseSoma_1101.dll

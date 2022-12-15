@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\bin\Debug\net6.0\MaiorPosicao_1080.exe
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\bin\Debug\net6.0\MaiorPosicao_1080.deps.json
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\bin\Debug\net6.0\MaiorPosicao_1080.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\bin\Debug\net6.0\MaiorPosicao_1080.dll
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\bin\Debug\net6.0\MaiorPosicao_1080.pdb
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.dll
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\refint\MaiorPosicao_1080.dll
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.pdb
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\MaiorPosicao_1080.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\MaiorPosicao_1080\obj\Debug\net6.0\ref\MaiorPosicao_1080.dll

@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\bin\Debug\net6.0\PositivoseMedia_1064.exe
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\bin\Debug\net6.0\PositivoseMedia_1064.deps.json
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\bin\Debug\net6.0\PositivoseMedia_1064.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\bin\Debug\net6.0\PositivoseMedia_1064.dll
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\bin\Debug\net6.0\PositivoseMedia_1064.pdb
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.dll
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\refint\PositivoseMedia_1064.dll
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.pdb
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\PositivoseMedia_1064.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\PositivoseMedia_1064\obj\Debug\net6.0\ref\PositivoseMedia_1064.dll

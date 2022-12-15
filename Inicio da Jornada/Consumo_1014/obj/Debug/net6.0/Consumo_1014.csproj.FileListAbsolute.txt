@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Consumo_1014\bin\Debug\net6.0\Consumo_1014.exe
+C:\Sharp Coders\beecrowd\Consumo_1014\bin\Debug\net6.0\Consumo_1014.deps.json
+C:\Sharp Coders\beecrowd\Consumo_1014\bin\Debug\net6.0\Consumo_1014.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Consumo_1014\bin\Debug\net6.0\Consumo_1014.dll
+C:\Sharp Coders\beecrowd\Consumo_1014\bin\Debug\net6.0\Consumo_1014.pdb
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.dll
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\refint\Consumo_1014.dll
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.pdb
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\Consumo_1014.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Consumo_1014\obj\Debug\net6.0\ref\Consumo_1014.dll

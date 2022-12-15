@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.exe
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.deps.json
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.dll
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\bin\Debug\net6.0\NumerosPares_1059.pdb
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.dll
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\refint\NumerosPares_1059.dll
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.pdb
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\NumerosPares_1059.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\NumerosPares_1059\obj\Debug\net6.0\ref\NumerosPares_1059.dll

@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\bin\Debug\net6.0\NotasEMoedas_1021.exe
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\bin\Debug\net6.0\NotasEMoedas_1021.deps.json
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\bin\Debug\net6.0\NotasEMoedas_1021.runtimeconfig.json
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\bin\Debug\net6.0\NotasEMoedas_1021.dll
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\bin\Debug\net6.0\NotasEMoedas_1021.pdb
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.dll
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\refint\NotasEMoedas_1021.dll
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.pdb
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\NotasEMoedas_1021.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\NotasEMoedas_1021\obj\Debug\net6.0\ref\NotasEMoedas_1021.dll

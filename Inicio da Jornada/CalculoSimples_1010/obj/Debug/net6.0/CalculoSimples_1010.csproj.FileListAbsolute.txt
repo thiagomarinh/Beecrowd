@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.exe
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.deps.json
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.runtimeconfig.json
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.dll
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\bin\Debug\net6.0\CalculoSimples_1010.pdb
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.dll
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\refint\CalculoSimples_1010.dll
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.pdb
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\CalculoSimples_1010.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\CalculoSimples_1010\obj\Debug\net6.0\ref\CalculoSimples_1010.dll

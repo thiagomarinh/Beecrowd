@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\bin\Debug\net6.0\TiposDeTriangulo_1045.exe
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\bin\Debug\net6.0\TiposDeTriangulo_1045.deps.json
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\bin\Debug\net6.0\TiposDeTriangulo_1045.runtimeconfig.json
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\bin\Debug\net6.0\TiposDeTriangulo_1045.dll
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\bin\Debug\net6.0\TiposDeTriangulo_1045.pdb
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.dll
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\refint\TiposDeTriangulo_1045.dll
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.pdb
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\TiposDeTriangulo_1045.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\TiposDeTriangulo_1045\obj\Debug\net6.0\ref\TiposDeTriangulo_1045.dll

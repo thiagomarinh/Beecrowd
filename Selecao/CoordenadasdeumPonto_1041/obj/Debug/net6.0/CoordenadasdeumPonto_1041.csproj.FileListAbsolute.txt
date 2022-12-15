@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\bin\Debug\net6.0\CoordenadasdeumPonto_1041.exe
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\bin\Debug\net6.0\CoordenadasdeumPonto_1041.deps.json
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\bin\Debug\net6.0\CoordenadasdeumPonto_1041.runtimeconfig.json
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\bin\Debug\net6.0\CoordenadasdeumPonto_1041.dll
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\bin\Debug\net6.0\CoordenadasdeumPonto_1041.pdb
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.dll
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\refint\CoordenadasdeumPonto_1041.dll
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.pdb
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\CoordenadasdeumPonto_1041.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\CoordenadasdeumPonto_1041\obj\Debug\net6.0\ref\CoordenadasdeumPonto_1041.dll

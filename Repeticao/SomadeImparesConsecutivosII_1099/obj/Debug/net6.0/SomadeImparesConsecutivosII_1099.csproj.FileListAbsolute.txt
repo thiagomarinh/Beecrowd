@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\bin\Debug\net6.0\SomadeImparesConsecutivosII_1099.exe
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\bin\Debug\net6.0\SomadeImparesConsecutivosII_1099.deps.json
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\bin\Debug\net6.0\SomadeImparesConsecutivosII_1099.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\bin\Debug\net6.0\SomadeImparesConsecutivosII_1099.dll
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\bin\Debug\net6.0\SomadeImparesConsecutivosII_1099.pdb
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.dll
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\refint\SomadeImparesConsecutivosII_1099.dll
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.pdb
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\SomadeImparesConsecutivosII_1099.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\SomadeImparesConsecutivosII_1099\obj\Debug\net6.0\ref\SomadeImparesConsecutivosII_1099.dll

@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Intervalor_1037\bin\Debug\net6.0\Intervalor_1037.exe
+C:\Sharp Coders\beecrowd\Intervalor_1037\bin\Debug\net6.0\Intervalor_1037.deps.json
+C:\Sharp Coders\beecrowd\Intervalor_1037\bin\Debug\net6.0\Intervalor_1037.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Intervalor_1037\bin\Debug\net6.0\Intervalor_1037.dll
+C:\Sharp Coders\beecrowd\Intervalor_1037\bin\Debug\net6.0\Intervalor_1037.pdb
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.dll
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\refint\Intervalor_1037.dll
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.pdb
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\Intervalor_1037.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Intervalor_1037\obj\Debug\net6.0\ref\Intervalor_1037.dll

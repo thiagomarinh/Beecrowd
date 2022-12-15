@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.exe
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.deps.json
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.runtimeconfig.json
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.dll
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\bin\Debug\net6.0\DistanciaEntreDoisPontos_1015.pdb
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.dll
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\refint\DistanciaEntreDoisPontos_1015.dll
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.pdb
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\DistanciaEntreDoisPontos_1015.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\DistanciaEntreDoisPontos_1015\obj\Debug\net6.0\ref\DistanciaEntreDoisPontos_1015.dll

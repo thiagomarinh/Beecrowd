@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaodeNota_1117", "ValidacaodeNota_1117.csproj", "{77086A44-CE52-494D-8890-817CD8054428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77086A44-CE52-494D-8890-817CD8054428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77086A44-CE52-494D-8890-817CD8054428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77086A44-CE52-494D-8890-817CD8054428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77086A44-CE52-494D-8890-817CD8054428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {383E6254-557A-4742-AEAF-7CA20B0D5FE7}
+	EndGlobalSection
+EndGlobal

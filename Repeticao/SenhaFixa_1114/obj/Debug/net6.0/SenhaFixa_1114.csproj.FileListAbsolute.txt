@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.exe
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.deps.json
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.dll
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\bin\Debug\net6.0\SenhaFixa_1114.pdb
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.dll
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\refint\SenhaFixa_1114.dll
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.pdb
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\SenhaFixa_1114.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\SenhaFixa_1114\obj\Debug\net6.0\ref\SenhaFixa_1114.dll

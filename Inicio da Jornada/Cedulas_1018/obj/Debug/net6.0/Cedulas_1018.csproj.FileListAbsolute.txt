@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.exe
+C:\Sharp Coders\beecrowd\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.deps.json
+C:\Sharp Coders\beecrowd\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.dll
+C:\Sharp Coders\beecrowd\Cedulas_1018\bin\Debug\net6.0\Cedulas_1018.pdb
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.dll
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\refint\Cedulas_1018.dll
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.pdb
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\Cedulas_1018.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Cedulas_1018\obj\Debug\net6.0\ref\Cedulas_1018.dll

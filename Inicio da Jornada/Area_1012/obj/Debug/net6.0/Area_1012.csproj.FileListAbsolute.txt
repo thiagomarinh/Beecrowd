@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Area_1012\bin\Debug\net6.0\Area_1012.exe
+C:\Sharp Coders\beecrowd\Area_1012\bin\Debug\net6.0\Area_1012.deps.json
+C:\Sharp Coders\beecrowd\Area_1012\bin\Debug\net6.0\Area_1012.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Area_1012\bin\Debug\net6.0\Area_1012.dll
+C:\Sharp Coders\beecrowd\Area_1012\bin\Debug\net6.0\Area_1012.pdb
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.dll
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\refint\Area_1012.dll
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.pdb
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\Area_1012.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Area_1012\obj\Debug\net6.0\ref\Area_1012.dll

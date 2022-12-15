@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.exe
+C:\Sharp Coders\beecrowd\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.deps.json
+C:\Sharp Coders\beecrowd\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.dll
+C:\Sharp Coders\beecrowd\Multiplos_1044\bin\Debug\net6.0\Multiplos_1044.pdb
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.dll
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\refint\Multiplos_1044.dll
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.pdb
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\Multiplos_1044.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Multiplos_1044\obj\Debug\net6.0\ref\Multiplos_1044.dll

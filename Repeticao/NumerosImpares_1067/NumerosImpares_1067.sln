@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosImpares_1067", "NumerosImpares_1067.csproj", "{1A4FFD10-F4A5-491C-A18A-2A21BF9B0FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A4FFD10-F4A5-491C-A18A-2A21BF9B0FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4FFD10-F4A5-491C-A18A-2A21BF9B0FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4FFD10-F4A5-491C-A18A-2A21BF9B0FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4FFD10-F4A5-491C-A18A-2A21BF9B0FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5822A2-5298-4B45-B83A-6AC6748D65E2}
+	EndGlobalSection
+EndGlobal

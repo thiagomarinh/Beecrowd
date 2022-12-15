@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.exe
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.deps.json
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.dll
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\bin\Debug\net6.0\SequenciaIJ3_1097.pdb
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.dll
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\refint\SequenciaIJ3_1097.dll
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.pdb
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\SequenciaIJ3_1097.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\SequenciaIJ3_1097\obj\Debug\net6.0\ref\SequenciaIJ3_1097.dll

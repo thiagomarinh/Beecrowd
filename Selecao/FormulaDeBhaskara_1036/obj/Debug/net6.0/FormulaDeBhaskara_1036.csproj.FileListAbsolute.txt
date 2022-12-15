@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\bin\Debug\net6.0\FormulaDeBhaskara_1036.exe
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\bin\Debug\net6.0\FormulaDeBhaskara_1036.deps.json
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\bin\Debug\net6.0\FormulaDeBhaskara_1036.runtimeconfig.json
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\bin\Debug\net6.0\FormulaDeBhaskara_1036.dll
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\bin\Debug\net6.0\FormulaDeBhaskara_1036.pdb
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.dll
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\refint\FormulaDeBhaskara_1036.dll
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.pdb
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\FormulaDeBhaskara_1036.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\FormulaDeBhaskara_1036\obj\Debug\net6.0\ref\FormulaDeBhaskara_1036.dll

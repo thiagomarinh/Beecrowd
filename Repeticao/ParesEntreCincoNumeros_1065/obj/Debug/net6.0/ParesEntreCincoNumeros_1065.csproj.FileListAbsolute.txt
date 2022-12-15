@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.exe
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.deps.json
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.dll
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\bin\Debug\net6.0\ParesEntreCincoNumeros_1065.pdb
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.dll
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\refint\ParesEntreCincoNumeros_1065.dll
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.pdb
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ParesEntreCincoNumeros_1065.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Repetição\ParesEntreCincoNumeros_1065\obj\Debug\net6.0\ref\ParesEntreCincoNumeros_1065.dll

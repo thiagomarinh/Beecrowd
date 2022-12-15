@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\Media1_1005\bin\Debug\net6.0\Media1_1005.exe
+C:\Sharp Coders\beecrowd\Media1_1005\bin\Debug\net6.0\Media1_1005.deps.json
+C:\Sharp Coders\beecrowd\Media1_1005\bin\Debug\net6.0\Media1_1005.runtimeconfig.json
+C:\Sharp Coders\beecrowd\Media1_1005\bin\Debug\net6.0\Media1_1005.dll
+C:\Sharp Coders\beecrowd\Media1_1005\bin\Debug\net6.0\Media1_1005.pdb
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.dll
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\refint\Media1_1005.dll
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.pdb
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\Media1_1005.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\Media1_1005\obj\Debug\net6.0\ref\Media1_1005.dll

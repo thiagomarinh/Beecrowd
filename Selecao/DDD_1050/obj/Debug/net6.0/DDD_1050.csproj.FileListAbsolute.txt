@@ -1,0 +1,15 @@
+C:\Sharp Coders\beecrowd\DDD_1050\bin\Debug\net6.0\DDD_1050.exe
+C:\Sharp Coders\beecrowd\DDD_1050\bin\Debug\net6.0\DDD_1050.deps.json
+C:\Sharp Coders\beecrowd\DDD_1050\bin\Debug\net6.0\DDD_1050.runtimeconfig.json
+C:\Sharp Coders\beecrowd\DDD_1050\bin\Debug\net6.0\DDD_1050.dll
+C:\Sharp Coders\beecrowd\DDD_1050\bin\Debug\net6.0\DDD_1050.pdb
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.AssemblyReference.cache
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfoInputs.cache
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfo.cs
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.CoreCompileInputs.cache
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.dll
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\refint\DDD_1050.dll
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.pdb
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\DDD_1050.genruntimeconfig.cache
+C:\Sharp Coders\beecrowd\DDD_1050\obj\Debug\net6.0\ref\DDD_1050.dll
